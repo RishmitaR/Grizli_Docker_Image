@@ -1,0 +1,15 @@
+grizli
+fsps 
+seaborn 
+extension-helpers
+pandas
+matplotlib
+notebook
+jupyterlab
+jupyterlab-server
+notebook-shim
+tornado
+jupyter-server
+
+
+
